@@ -4,6 +4,7 @@
  *
  * Find the median of two sorted arrays.
  *
+ 
  * The idea is to use binary search on the smaller array
  * to partition both arrays into left and right halves
  * such that:
